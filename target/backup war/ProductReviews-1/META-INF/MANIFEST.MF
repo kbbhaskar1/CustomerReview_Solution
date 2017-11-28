@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: ProductReviews
+Implementation-Version: 1
+Archiver-Version: Plexus Archiver
+Built-By: user
+Implementation-Vendor-Id: com.org.microservices
+Spring-Boot-Version: 1.5.8.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: com.org.customerreviews.CustomerReviewApplication
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/ProductRevie
+ ws/
+
