@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CustomerReviewApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerReviewApplication.class, args);
-		System.out.println("spring boot version1");
+		System.out.println("spring boot version2");
 		
 	}
 }
